@@ -61,11 +61,7 @@ docker-compose.override.yml
 # ML Models & Large Files
 # (DO NOT PUSH HEAVY MODELS)
 # ===============================
-models/
-*.joblib
-*.h5
-*.pt
-*.bin
+
 
 # ===============================
 # HuggingFace / Transformers Cache
