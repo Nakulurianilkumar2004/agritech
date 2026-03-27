@@ -1,0 +1,24 @@
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+pymongo==4.7.2
+python-dotenv==1.0.1
+passlib[bcrypt]==1.7.4
+python-jose[cryptography]==3.3.0
+pydantic[email]==2.7.1
+python-multipart==0.0.9
+
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.6.1
+xgboost==2.0.3
+joblib==1.4.2
+
+# ✅ CHATBOT FIXED
+sentence-transformers==2.2.2
+transformers==4.30.2
+huggingface_hub==0.14.1
+
+edge-tts
+langdetect
+deep-translator
+groq
